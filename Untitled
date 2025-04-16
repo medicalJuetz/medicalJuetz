@@ -1,0 +1,63 @@
+# 🧠 Angepasster Prompt zur kritischen Selbstanalyse (Webseitenanalyse – juristische Prüfung)
+
+**Zielgruppen:** Praxisinhaber:innen, Webentwickler:innen, Datenschutzbeauftragte
+
+---
+
+## 1. Selbstkritische Analyse
+
+Führe eine detaillierte und systematische Analyse der juristischen Prüfung der Website durch – insbesondere der Impressums- und Datenschutzerklärung – und gehe dabei auf folgende Punkte ein:
+
+### 1.1 Genauigkeit
+
+- Überprüfe, ob die rechtlichen Inhalte zur DSGVO, TMG und GoÄ korrekt, vollständig und aktuell waren. Wurden alle praxisrelevanten Vorgaben (wie Angaben zur Berufsordnung, Aufsichtsbehörde, Zweck der Datenverarbeitung) berücksichtigt?
+- **Quellen:** [DSGVO Art. 13/14](https://dsgvo-gesetz.de/art-13-dsgvo/), [TMG §5](https://www.gesetze-im-internet.de/tmg/__5.html), [Ärztekammer Berlin](https://www.aekb.de/)
+
+### 1.2 Erkennung von Verzerrungen
+
+- Analysiere, ob Vorannahmen (z. B. zur Nutzung von Trackingdiensten oder CMS) unbewusst die Einschätzung beeinflusst haben könnten. Wurde neutral und nur auf Basis der vorliegenden Informationen geurteilt?
+
+### 1.3 Verbesserungspotenzial
+
+- Welche Passagen könnten juristisch präziser oder mit konkreteren Paragrafen, Fristen oder Formulierungen gestützt werden?
+
+### 1.4 Quellenbewertung
+
+- Wurden die verwendeten juristischen Quellen (DSGVO, TMG, APA-Verweise etc.) korrekt eingeordnet? Wären spezifischere Quellen wie Informationen der Ärztekammer Berlin, der BfDI oder spezialgesetzliche Regelungen hilfreicher gewesen?
+
+### 1.5 Stil und Verständlichkeit
+
+- War die Antwort in einem sachlich-juristischen Stil geschrieben, der sowohl Fachpublikum (Ärzte, Datenschutzbeauftragte) als auch Laien (Patient:innen, Webentwickler:innen) gerecht wird?
+
+### 1.6 Feedback-Integration
+
+- Welche Rückmeldungen (z. B. “bitte um Umsetzung”, “ja bitte”, Kontext aus Datei) wurden berücksichtigt – und welche nicht? Wie hätte aktives Nachfragen oder eine Rückbestätigung den Ablauf verbessert?
+- **Tipp:** Feedbackschleifen gezielt einplanen.
+
+### 1.7 Strukturelle Reflexion
+
+- War die Gliederung der juristischen Empfehlungen (z. B. Impressum, Datenschutz, README) schlüssig und gut auffindbar? Welche Strukturänderungen könnten die Leserführung verbessern?
+
+---
+
+## 2. Konkrete Verbesserungsvorschläge
+
+Formuliere auf Basis der obigen Punkte spezifische und begründete Verbesserungsvorschläge, z. B.:
+
+- Ergänzung konkreter DSGVO-Artikel (z. B. Art. 13 vs. 14)
+- Einsatz von Checklisten aus Quellen wie [BfDI](https://www.bfdi.bund.de/) oder [Ärztekammer Berlin](https://www.aekb.de/)
+- Bessere Leserführung durch Zwischenüberschriften oder rechtliche Icons (z. B. ⚖️ für rechtliche Hinweise)
+
+---
+
+## 3. Iterative Optimierung
+
+- Überarbeite die ursprüngliche Antwort schrittweise entlang der Vorschläge.
+- Dokumentiere dabei kurz die vorgenommenen Änderungen und ihren Nutzen.
+
+---
+
+## 4. Finale optimierte Antwort
+
+- Stelle eine klar strukturierte, sprachlich optimierte, juristisch fundierte Endversion der Webseitenanalyse zur Verfügung.
+- **Optional:** Liefere Zusatzoptionen wie ein druckbares PDF, rechtssicheres Impressums-Template oder To-do-Checkliste für die Praxisinhaber:innen.

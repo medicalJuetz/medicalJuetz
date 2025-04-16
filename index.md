@@ -39,14 +39,26 @@ Er verfügt über fundierte Kenntnisse in **SPSS**, **Microsoft Office** sowie *
 📧 [martin.juetz@mail.de](mailto:martin.juetz@mail.de)
 🌐 [www.dr-juetz.de](https://www.dr-juetz.de)
 
-## Wichtige Hinweise
+---
+
+## ⚖️ Rechtliche Hinweise
 
 Bitte beachten Sie, dass ich ausschließlich Privatpatienten und Selbstzahler behandle.
-Die Abrechnung erfolgt gemäß der Gebührenordnung für Ärzte (GoÄ).
+Die Abrechnung erfolgt gemäß der [Gebührenordnung für Ärzte (GoÄ)](https://www.gesetze-im-internet.de/goae/) (§1 GoÄ).
 Ich bin kein Vertragsarzt der gesetzlichen Krankenversicherung (GKV).
+Berufsrechtliche Regelungen: [Berufsordnung der Ärztekammer Berlin](https://www.aekb.de/10arzt/30berufsrecht/10berufsordnung/index.html)
+
+---
 
 ## Aufsichtsbehörde
 
 Zuständige Aufsichtsbehörde: Ärztekammer Berlin
 Friedrichstraße 16, 10969 Berlin
 🌐 [www.aekb.de](https://www.aekb.de)
+
+---
+
+## Weitere rechtliche Hinweise
+
+- [Impressum ⚖️](impressum.html)
+- [Datenschutz 🔒](datenschutz.html)

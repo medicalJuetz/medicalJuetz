@@ -1,42 +1,117 @@
-<header>
-  <img src="Cross.png" alt="Praxislogo Dr. med. Martin Jütz">
-  <h1>Praxis Dr. med. Martin Jütz</h1>
-  <p>Arzt · Berlin</p>
-  <nav>
-    <a href="index.html">Startseite</a>
-    <a href="impressum.html">Impressum</a>
-    <a href="datenschutz.html">Datenschutz</a>
-  </nav>
-</header>
-<h1>Datenschutzerklärung</h1>
-<h2>Datenschutzhinweis (gemäß Art. 13 DSGVO)</h2>
-<p>
-  Beim Kontakt per E-Mail oder Telefon werden die von Ihnen übermittelten personenbezogenen Daten ausschließlich zur Bearbeitung Ihrer Anfrage verarbeitet (Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO). Eine Weitergabe an Dritte erfolgt nicht.
-</p>
-<p>
-  Ihre Daten werden gelöscht, sobald sie für die Zweckerreichung nicht mehr erforderlich sind, es sei denn gesetzliche Aufbewahrungspflichten bestehen.
-</p>
-<p>
-  Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Widerspruch sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde.
-</p>
-<p>
-  Verantwortlicher:<br>
-  Dr. med. Martin Jütz<br>
-  Schönhauser Allee 163, 10435 Berlin<br>
-  E-Mail: <a href="mailto:info@dr-juetz.de">info@dr-juetz.de</a>
-</p>
-<h2>Aufsichtsbehörde</h2>
-<p>
-  Ärztekammer Berlin<br>
-  Friedrichstraße 16<br>
-  10969 Berlin<br>
-  <a href="https://www.aekb.de" target="_blank" rel="noopener">www.aekb.de</a>
-</p>
-<!-- Weitere Inhalte siehe vorheriges Beispiel -->
-<footer>
-  <nav>
-    <a href="impressum.html">Impressum</a> ·
-    <a href="datenschutz.html">Datenschutz</a>
-  </nav>
-  <p>&copy; 2025 Dr. med. Martin Jütz</p>
-</footer>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datenschutz – Praxis Dr. med. Martin Jütz</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #111;
+    }
+    header, footer {
+      background: #004080;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    header img {
+      display: block;
+      margin: 0 auto 1rem auto;
+      max-width: 120px;
+      height: auto;
+    }
+    main {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #004080;
+      margin-top: 1.5rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #fff;
+      text-decoration: underline;
+    }
+    nav a:hover { text-decoration: none; }
+    a { color: #004080; }
+    @media (prefers-color-scheme: dark) {
+      body { background-color: #121212; color: #f0f0f0; }
+      header, footer { background-color: #002a5c; color: #fff; }
+      a { color: #80bfff; }
+      h1, h2 { color: #99ccff; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="Cross.png" alt="Praxislogo Dr. med. Martin Jütz">
+    <h1>Praxis Dr. med. Martin Jütz</h1>
+    <p>Arzt · Berlin</p>
+    <nav>
+      <a href="index.html">Startseite</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Datenschutzerklärung <span aria-label="Datenschutz" title="Datenschutz">🔒</span></h1>
+    <h2>1. Verantwortlicher</h2>
+    <p>
+      Dr. med. Martin Jütz<br>
+      Schönhauser Allee 163, 10435 Berlin<br>
+      E-Mail: <a href="mailto:info@dr-juetz.de">info@dr-juetz.de</a>
+    </p>
+    <h2>2. Zwecke und Rechtsgrundlagen der Datenverarbeitung</h2>
+    <p>
+      Beim Kontakt per E-Mail oder Telefon werden die von Ihnen übermittelten personenbezogenen Daten ausschließlich zur Bearbeitung Ihrer Anfrage verarbeitet.<br>
+      <strong>Rechtsgrundlagen:</strong> Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse), ggf. Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung).
+    </p>
+    <h2>3. Empfänger der Daten</h2>
+    <p>
+      Eine Weitergabe an Dritte erfolgt nicht, sofern keine gesetzliche Verpflichtung besteht.
+    </p>
+    <h2>4. Speicherdauer</h2>
+    <p>
+      Ihre Daten werden gelöscht, sobald sie für die Zweckerreichung nicht mehr erforderlich sind, es sei denn, gesetzliche Aufbewahrungspflichten bestehen.
+    </p>
+    <h2>5. Ihre Rechte (Art. 13, 14, 15–18, 21, 77 DSGVO)</h2>
+    <ul>
+      <li>Recht auf Auskunft (Art. 15 DSGVO)</li>
+      <li>Recht auf Berichtigung (Art. 16 DSGVO)</li>
+      <li>Recht auf Löschung (Art. 17 DSGVO)</li>
+      <li>Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)</li>
+      <li>Recht auf Widerspruch gegen die Verarbeitung (Art. 21 DSGVO)</li>
+      <li>Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DSGVO)</li>
+    </ul>
+    <h2>6. Aufsichtsbehörde</h2>
+    <p>
+      Ärztekammer Berlin<br>
+      Friedrichstraße 16<br>
+      10969 Berlin<br>
+      <a href="https://www.aekb.de" target="_blank" rel="noopener">www.aekb.de</a>
+    </p>
+    <h2>7. Quellen & Checklisten</h2>
+    <ul>
+      <li><a href="https://dsgvo-gesetz.de/art-13-dsgvo/" target="_blank" rel="noopener">DSGVO Art. 13/14</a></li>
+      <li><a href="https://www.bfdi.bund.de/" target="_blank" rel="noopener">BfDI – Checklisten</a></li>
+      <li><a href="https://www.aekb.de/" target="_blank" rel="noopener">Ärztekammer Berlin</a></li>
+    </ul>
+  </main>
+  <footer>
+    <nav>
+      <a href="impressum.html">Impressum</a> ·
+      <a href="datenschutz.html">Datenschutz</a>
+    </nav>
+    <p>&copy; 2025 Dr. med. Martin Jütz</p>
+  </footer>
+</body>
+</html>

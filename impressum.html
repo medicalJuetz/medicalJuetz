@@ -1,36 +1,114 @@
-<header>
-  <img src="Cross.png" alt="Praxislogo Dr. med. Martin Jütz">
-  <h1>Praxis Dr. med. Martin Jütz</h1>
-  <p>Arzt · Berlin</p>
-  <nav>
-    <a href="index.html">Startseite</a>
-    <a href="impressum.html">Impressum</a>
-    <a href="datenschutz.html">Datenschutz</a>
-  </nav>
-</header>
-<h1>Impressum</h1>
-<p><strong>Dr. med. Martin Jütz</strong><br>
-Facharzt für Allgemeinmedizin<br>
-Schönhauser Allee 163<br>
-10435 Berlin<br>
-Deutschland</p>
-<p>
-  Bitte beachten Sie, dass ich ausschließlich Privatpatienten und Selbstzahler behandle.
-  Die Abrechnung erfolgt gemäß der Gebührenordnung für Ärzte (GoÄ).
-  Ich bin kein Vertragsarzt der gesetzlichen Krankenversicherung (GKV).
-</p>
-<h2>Aufsichtsbehörde</h2>
-<p>
-  Ärztekammer Berlin<br>
-  Friedrichstraße 16<br>
-  10969 Berlin<br>
-  <a href="https://www.aekb.de" target="_blank" rel="noopener">www.aekb.de</a>
-</p>
-<!-- Weitere Inhalte siehe vorheriges Beispiel -->
-<footer>
-  <nav>
-    <a href="impressum.html">Impressum</a> ·
-    <a href="datenschutz.html">Datenschutz</a>
-  </nav>
-  <p>&copy; 2025 Dr. med. Martin Jütz</p>
-</footer>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Impressum – Praxis Dr. med. Martin Jütz</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body {
+      font-family: system-ui, sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #111;
+    }
+    header, footer {
+      background: #004080;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    header img {
+      display: block;
+      margin: 0 auto 1rem auto;
+      max-width: 120px;
+      height: auto;
+    }
+    main {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #004080;
+      margin-top: 1.5rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      color: #fff;
+      text-decoration: underline;
+    }
+    nav a:hover { text-decoration: none; }
+    a { color: #004080; }
+    @media (prefers-color-scheme: dark) {
+      body { background-color: #121212; color: #f0f0f0; }
+      header, footer { background-color: #002a5c; color: #fff; }
+      a { color: #80bfff; }
+      h1, h2 { color: #99ccff; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="Cross.png" alt="Praxislogo Dr. med. Martin Jütz">
+    <h1>Praxis Dr. med. Martin Jütz</h1>
+    <p>Arzt · Berlin</p>
+    <nav>
+      <a href="index.html">Startseite</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+    </nav>
+  </header>
+  <main>
+    <h1>Impressum <span aria-label="Recht" title="Recht">⚖️</span></h1>
+    <h2>Angaben gemäß § 5 TMG</h2>
+    <p><strong>Dr. med. Martin Jütz</strong><br>
+    Privatärztliche Praxis für Allgemeinmedizin<br>
+    Schönhauser Allee 163<br>
+    10435 Berlin<br>
+    Deutschland</p>
+    <p>
+      Telefon: <a href="tel:+493056534007">030 56534007</a><br>
+      E-Mail: <a href="mailto:info@dr-juetz.de">info@dr-juetz.de</a><br>
+      Internet: <a href="https://www.drjuetz.de" target="_blank" rel="noopener">www.drjuetz.de</a>
+    </p>
+    <h2>Berufsrechtliche Angaben</h2>
+    <ul>
+      <li><strong>Berufsbezeichnung:</strong> Arzt (verliehen in der Bundesrepublik Deutschland)</li>
+      <li><strong>Zuständige Kammer:</strong> Ärztekammer Berlin</li>
+      <li><strong>Aufsichtsbehörde:</strong> Ärztekammer Berlin, Friedrichstraße 16, 10969 Berlin, <a href="https://www.aekb.de" target="_blank" rel="noopener">www.aekb.de</a></li>
+      <li><strong>Berufsrechtliche Regelungen:</strong>
+        <ul>
+          <li><a href="https://www.aekb.de/10arzt/30berufsrecht/10berufsordnung/index.html" target="_blank" rel="noopener">Berufsordnung der Ärztekammer Berlin</a></li>
+          <li><a href="https://gesetze.berlin.de/bsbe/document/jlr-HeilBerGBErahmen" target="_blank" rel="noopener">Heilberufsgesetz des Landes Berlin</a></li>
+        </ul>
+      </li>
+    </ul>
+    <p>Die Regelungen sind einsehbar unter: <a href="https://www.aekb.de" target="_blank" rel="noopener">https://www.aekb.de</a></p>
+    <h2>Abrechnung</h2>
+    <p>
+      Bitte beachten Sie, dass ich ausschließlich Privatpatienten und Selbstzahler behandle.<br>
+      Die Abrechnung erfolgt gemäß der <a href="https://www.gesetze-im-internet.de/goae/" target="_blank" rel="noopener">Gebührenordnung für Ärzte (GoÄ)</a>.<br>
+      Ich bin kein Vertragsarzt der gesetzlichen Krankenversicherung (GKV).
+    </p>
+    <h2>Quellen & weiterführende Informationen</h2>
+    <ul>
+      <li><a href="https://dsgvo-gesetz.de/art-13-dsgvo/" target="_blank" rel="noopener">DSGVO Art. 13/14</a></li>
+      <li><a href="https://www.gesetze-im-internet.de/tmg/__5.html" target="_blank" rel="noopener">TMG §5</a></li>
+      <li><a href="https://www.bfdi.bund.de/" target="_blank" rel="noopener">BfDI</a></li>
+      <li><a href="https://www.aekb.de/" target="_blank" rel="noopener">Ärztekammer Berlin</a></li>
+    </ul>
+    <!-- Weitere Inhalte siehe vorheriges Beispiel -->
+  </main>
+  <footer>
+    <nav>
+      <a href="impressum.html">Impressum</a> ·
+      <a href="datenschutz.html">Datenschutz</a>
+    </nav>
+    <p>&copy; 2025 Dr. med. Martin Jütz</p>
+  </footer>
+</body>
+</html>
