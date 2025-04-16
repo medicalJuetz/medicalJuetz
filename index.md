@@ -3,8 +3,6 @@ layout: home
 title: "Willkommen"
 ---
 
-# Privatpraxis Dr. med. Martin Jütz
-
 Hausbesuche · Telemedizin · Allgemeinmedizin · Strahlentherapie
 **Dr. med. Martin Jütz | Arzt**
 Schönhauser Allee 163, 10435 Berlin
@@ -30,7 +28,7 @@ Telefon: [030 56534007](tel:03056534007)
 Dr. med. Martin Jütz ist approbierter Arzt mit Schwerpunkt in der Radioonkologie.
 Er wurde am 11. Mai 1987 in Nauen geboren und arbeitet derzeit in Berlin. Nach dem Studium der Humanmedizin an der Charité Berlin, TU Dresden und Universität Gießen promoviert er an der Klinik für Strahlentherapie des Universitätsklinikums Dresden zum Thema:
 
-**„Prognostisches Potential von CD44 als Tumorstammzellmarker für die kombinierte Radiochemotherapie des lokal fortgeschrittenen Kopf-Hals-Plattenepithelkarzinoms.“**
+## Prognostisches Potential von CD44 als Tumorstammzellmarker für die kombinierte Radiochemotherapie des lokal fortgeschrittenen Kopf-Hals-Plattenepithelkarzinoms
 
 Zuvor war er unter anderem als Assistenzarzt am Vivantes Klinikum Neukölln, Impfmediziner in Berlin und Werkstudent tätig.
 Er verfügt über fundierte Kenntnisse in **SPSS**, **Microsoft Office** sowie **AutoCAD** und spricht **fließend Englisch** sowie **Grundkenntnisse in Französisch**.
